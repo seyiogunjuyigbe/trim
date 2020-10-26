@@ -45,4 +45,3 @@ ISC License
 
 ### API Documentation
     https://trim.ng/docs
-    
