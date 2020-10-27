@@ -1,4 +1,4 @@
-# Trim
+# TRIM
 <hr>
 
 <img src='https://res.cloudinary.com/gabicle/image/upload/v1570616642/ion-cut-outline_qg8jga.png'>
